@@ -1,0 +1,69 @@
+.popup-box-sucsess {
+    position: fixed;
+    background: #00000050;
+    width: 100%;
+    height: 120vh;
+    top: 0px;
+    right: 0;
+  }
+
+
+.sucsess{
+    width: 466px;
+    height: 504px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -60%);
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 1px solid #E5E0E0;
+border-radius: 8px;
+text-align: center;
+padding: 10px;
+
+}
+.sucsess-tick{
+    width: 120px;
+    height: 120px;
+    border-radius: 120px;  
+    background: #5861AE60 0% 0% no-repeat padding-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    margin-top: 62px;
+}
+.sucsess-tick i{
+    font-size: 55px;
+    color: #5861AE;
+    text-align: center;
+    /* margin: auto auto; */
+}
+
+.sucsess h1{
+    font-size: 24px;
+    width: 297px;
+    margin: auto;
+    margin-top: 25px;
+}
+.sucsess p{
+    margin: auto;
+    margin-top: 15px;
+    width: 263px;
+}
+
+.go-order{
+    width: 235px;
+    margin: auto;
+    height: 44px;
+background: #5861AE 0% 0% no-repeat padding-box;
+border-radius: 22px;
+text-align: center;
+font: normal normal bold 17px/23px ;
+letter-spacing: -0.41px;
+color: #FFFFFF;
+outline: none;
+border: none;
+margin-top: 25px;
+
+}
